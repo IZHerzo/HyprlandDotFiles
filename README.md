@@ -7,9 +7,6 @@ Anik's dotfiles
 # Preview:
 ![Screenshot_2025-06-03_10-23-51](https://github.com/user-attachments/assets/120790eb-e7df-471b-a7c4-f6da68f5547f)
 
-# Supported OS
-only Arch Linux or atleast any Arch-based (such as EndeavorOS, Artix)
-
 # wallpaper setup
 make sure to edit line `45` ![image](https://github.com/user-attachments/assets/3a620a41-d9fa-4ec4-a9b8-07c480be6b81)
 in the `hyprland.conf` to your desired default wallpaper & line `89`-`93` ![image](https://github.com/user-attachments/assets/aedece50-13f2-4afa-a7ba-41c8f2474ee4)
