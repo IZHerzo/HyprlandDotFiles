@@ -5,7 +5,7 @@ Our hyprland rice with suisei wallpaper :)
 Anik's dotfiles
 
 # Preview:
-![Screenshot_2025-04-02_16-05-23](https://github.com/user-attachments/assets/9474a705-3c38-4190-aab6-25db8579d89d)
+![Screenshot_2025-06-03_10-23-51](https://github.com/user-attachments/assets/120790eb-e7df-471b-a7c4-f6da68f5547f)
 
 # Supported OS
 only Arch Linux or atleast any Arch-based (such as EndeavorOS, Artix)
